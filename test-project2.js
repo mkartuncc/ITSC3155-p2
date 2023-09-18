@@ -1,13 +1,6 @@
 'use strict';
 
 function testProject2() {
-  /*
-   * This file tests the Project #2 JavaScript assignment problems. It prints what
-   * it finds to the console log and updates the text being displayed in the window with a
-   * summary of the results.
-   */
-
-  /* eslint-env browser, node */
 
 // Result message for Problems 1-3
   var p1Message = 'SUCCESS';
